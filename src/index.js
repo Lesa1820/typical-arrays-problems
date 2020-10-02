@@ -21,4 +21,3 @@ exports.avg = function avg (array) {
    sum = sum / x;
   return sum;
 }
-
